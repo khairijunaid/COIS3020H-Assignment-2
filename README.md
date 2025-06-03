@@ -2,6 +2,8 @@
 
 **Project Title:** Treap Data Structure Implementation
 
+**Done For:** COIS3020H Assignment 2, Trent University
+
 **Technology:** C#, .NET Framework, Console Application
 
 **Overview:** This project implements a Treap (Tree + Heap) data structure in C# that combines the properties of both binary search trees and heaps. It maintains binary search tree ordering by keys while using random priorities to maintain heap properties, ensuring balanced tree operations with expected O(log n) performance.
